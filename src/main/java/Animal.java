@@ -14,4 +14,5 @@ public class Animal {
         System.out.println("sum=" + sum);
         System.out.println("count= " + count);
     }
+    System.out.println("这个想法太妙了");
 }
